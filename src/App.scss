@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+.action-container{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
